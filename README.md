@@ -11,7 +11,7 @@ Howdy! In this coding challenge we kindly ask you to create your own nice dynami
 5. Add a select to change the order from stars to creation date
 6. Add a new score that is calculated by amount of stars and amount of forks, where each star has a weight of 1 and each fork has a weight of 5
 
-To achieve this you are free to use Vue, React, Web Components (even Stencil) or just vanilla JavaScript. Whatever you decide for you should pay attention to your code organization and style. You will present this repository to some of your potential new buddies afterwards. Also we would like to be able to show this repository to anybody else without having to explain something, so please provide appropriate documentation.
+To achieve this you are free to use Vue, React, Web Components (even Stencil) or just vanilla JavaScript. Whatever you decide for you should pay attention to your code organization and style. You will present this repository to some of your potential new buddies afterwards. Also we would like to be able to show this repository to anybody else without having to explain anything, so please provide appropriate documentation.
 
 ## Mission
 - [ ] Fork this repository
