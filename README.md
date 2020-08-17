@@ -6,9 +6,10 @@ Howdy! In this coding challenge we kindly ask you to create your own nice dynami
 
 1. avatar and bio
 2. the total amount of repositories
-3. the name and amount of stars of the last 5 repositories ordered by most stars
-4. Add a select to change the order from stars to creation date
-5. Add a new score that is calculated by amount of stars and amount of forks, where each star has a weight of 1 and each fork has a weight of 5
+3. the name and amount of stars of the last 15 repositories ordered by most stars
+4. paginate those repositories and display only 5 repositories per page
+5. Add a select to change the order from stars to creation date
+6. Add a new score that is calculated by amount of stars and amount of forks, where each star has a weight of 1 and each fork has a weight of 5
 
 To achieve this you are free to use Vue, React, Web Components (even Stencil) or just vanilla JavaScript. Whatever you decide for you should pay attention to your code organization and style. You will present this repository to some of your potential new buddies afterwards. Also we would like to be able to show this repository to anybody else without having to explain something, so please provide appropriate documentation.
 
