@@ -1,4 +1,4 @@
-# Frontend Coding Challenge
+# i22 Frontend Coding Challenge
 This is a coding challenge for frontend developers applying at i22.
 
 ## Scenario
