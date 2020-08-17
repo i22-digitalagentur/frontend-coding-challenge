@@ -7,7 +7,7 @@ Howdy! In this coding challenge we kindly ask you to create your own nice dynami
 1. avatar and bio
 2. the total amount of repositories
 3. the name and amount of stars of the last 15 repositories ordered by most stars
-4. paginate those repositories and display only 5 repositories per page
+4. paginate those repositories and display only 4 repositories per page
 5. Add a select to change the order from stars to creation date
 6. Add a new score that is calculated by amount of stars and amount of forks, where each star has a weight of 1 and each fork has a weight of 5
 
