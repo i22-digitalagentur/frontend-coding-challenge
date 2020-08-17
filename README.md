@@ -2,7 +2,7 @@
 This is a coding challenge for frontend developers applying at i22.
 
 ## Scenario
-Howdy! In this coding challenge we kindly ask you to create your own nice dynamic developer profile. Please use the [Github GraphQL API](https://docs.github.com/en/graphql, the explorer at https://developer.github.com/v4/explorer/ might help a lot) and your own Github Account credentials. Use a *famous github profile* (e.g. `gaearon`) for demonstration purpose or feel free to use your own account if it's not empty. Then display:
+Howdy! In this coding challenge we kindly ask you to create your own nice dynamic developer profile. Please use the [Github GraphQL API](https://docs.github.com/en/graphql) (the [explorer](https://developer.github.com/v4/explorer/) might help a lot) and your own Github Account credentials. Use a *famous github profile* (e.g. `gaearon`) for demonstration purpose or feel free to use your own account if it's not empty. Then display:
 
 1. avatar and bio
 2. the total amount of repositories
@@ -24,5 +24,4 @@ To achieve this you are free to use Vue, React, Web Components (even Stencil) or
 - Pay attention to your code style and structure.
 - Display well in Google Chrome, don't waste time on other browsers.
 - Don't reinvent the wheel, feel free to use any framework.
-- Don't pay special attention to responsive design.
 - If you don't have enough time for everything, focus on a part of it rather than doing everything just okayish.
