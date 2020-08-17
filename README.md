@@ -16,7 +16,7 @@ To achieve this you are free to use Vue, React, Web Components (even Stencil) or
 ## Mission
 - [ ] Fork this repository
 - [ ] Write concise commit messages
-- [ ] Submit a merge request and describe your changes precisely
+- [ ] Submit a pull request and describe your changes precisely
 
 ## Please note
 - The tech stack is your own decision.
