@@ -9,7 +9,7 @@ Howdy! In this coding challenge we kindly ask you to create your own nice dynami
 3. the name and amount of stars of the last 15 repositories ordered by most stars
 4. paginate those repositories and display only 4 repositories per page
 5. Add a select to change the order from stars to creation date
-6. Add a new score that shows the amount of stars per fork
+6. Add a new score that is calculated by the amount of forks per stars
 
 To achieve this you are free to use Vue, React, Web Components (even Stencil) or just vanilla JavaScript. Whatever you decide for you should pay attention to your code organization and style. You will present this repository to some of your potential new buddies afterwards. Also we would like to be able to show this repository to anybody else without having to explain anything, so please provide appropriate documentation.
 
